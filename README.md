@@ -1,4 +1,4 @@
-# SocialMediaWebsite 
+# Social Media Website 
 
 ### A full-stack social media web application developed as a coursework project for a Software Engineering course. The platform allows users to authenticate via Google and interact with a shared message board — viewing, creating, and deleting posts.
 
