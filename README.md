@@ -1,9 +1,9 @@
-# Social  Media  Website 
+# Message  Board
 
-### A full-stack social media web application developed as a coursework project for a Software Engineering course. The platform allows users to authenticate via Google and interact with a shared message board — viewing, creating, and deleting posts.
+### A full-stack web application developed as a coursework project for a Software Engineering course. The platform allows users to authenticate via Google and interact with a shared message board — viewing, creating, and deleting posts.
 
 # Objective
-### The objective of this project was to design and build a functional, full-stack web application that demonstrates core software engineering principles, including  database integration, user authentication, and cloud deployment. The application serves as a lightweight social media platform where authenticated users can participate in a shared message feed, fostering an understanding front-end to back-end to deployment.
+### The objective of this project was to design and build a functional, full-stack web application that demonstrates database integration, user authentication, and cloud deployment. The application serves as a lightweight message platform where authenticated users can participate in a shared message feed, fostering an understanding front-end to back-end to deployment.
 
 # Features
 
